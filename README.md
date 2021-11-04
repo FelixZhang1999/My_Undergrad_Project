@@ -23,7 +23,7 @@ I crucially involved in all aspects of this project. I was responsible for the i
 
 ### COGS108: Moba Game Winrate Prediction using SVM   
 Code/Report: https://github.com/millrogue/COGS108_Final_Project   
-Summary:   
+Summary:  
 
 ### COGS118A: An Empirical Comparison of Supervised Learning Algorithms   
 Code/Report:    
