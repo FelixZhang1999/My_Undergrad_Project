@@ -3,15 +3,23 @@
 This is the repo that contains all my undergraduate projects. Here is the list and introduction to each of them.
 
 List of Projects:
+
 CSE151B: Trajectory Prediction using Repeat-Linear Neural Network
+
 COGS108: Moba Game Winrate Prediction using SVM
+
 COGS118A: An Empirical Comparison of Supervised Learning Algorithms
+
 COGS118B: Rating Prediction using Unsupervised Learning Algorithms
 
 Introduction of Projects:
+
 CSE151B: Trajectory Prediction using Repeat-Linear Neural Network
+
 Code: https://github.com/f6zhang/CSE-151B-Final-Project
+
 Report: 
+
 Summary:
 This project is a class Kaggle Challenge (link: https://www.kaggle.com/c/cse151b-spring# Global competition: https://eval.ai/web/challenges/challenge-page/454/overview). In this project, we attemptted to solve the problem of Trajectory Prediction for autonomous driving. The goal is to predict the trajectory of the vehicle 3 seconds in the future using 2 seconds data in the past. Our group scored first place in public leaderboard with a test RMSE of less than 2.0 and scored second place in private leaderboard. 
 
