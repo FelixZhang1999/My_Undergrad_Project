@@ -1,5 +1,7 @@
 # My Undergraduate Projects
 
+This author of this repo is Futian Zhang (Felix).
+
 This is the repo that contains all my undergraduate projects. Here is the list and introduction to each of them.
 
 List of Projects:  
