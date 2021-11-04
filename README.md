@@ -4,14 +4,14 @@ This is the repo that contains all my undergraduate projects. Here is the list a
 
 List of Projects:  
 Course Name: Project Name  
-CSE151B: Trajectory Prediction using Repeat-Linear Neural Network   
+CSE151B: Trajectory Prediction using Repeat-Layer Linear Neural Network  
 COGS108: Moba Game Winrate Prediction using SVM   
 COGS118A: An Empirical Comparison of Supervised Learning Algorithms    
 COGS118B: Rating Prediction using Unsupervised Learning Algorithms   
 
 ## Introduction of Projects:
 
-### CSE151B: Trajectory Prediction using Repeat-Linear Neural Network   
+### CSE151B: Trajectory Prediction using Repeat-Layer Linear Neural Network 
 Code: https://github.com/f6zhang/CSE-151B-Final-Project   
 Report: https://github.com/millrogue/My_Undergrad_Project/tree/main/CSE151B:%20Trajectory%20Prediction%20using%20Repeat-Linear%20Neural%20Network  
 Summary:  
