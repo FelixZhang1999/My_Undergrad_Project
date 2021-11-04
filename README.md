@@ -26,7 +26,7 @@ Code/Report: https://github.com/millrogue/COGS108_Final_Project
 Summary:  
 
 ### COGS118A: An Empirical Comparison of Supervised Learning Algorithms   
-Code/Report:    
+Code/Report: https://github.com/millrogue/My_Undergrad_Project/tree/main/COGS118A:%20An%20Empirical%20Comparison%20of%20Supervised%20Learning%20Algorithms    
 Summary:   
 
 ### COGS118B: Rating Prediction using Unsupervised Learning Algorithms   
