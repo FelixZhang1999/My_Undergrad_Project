@@ -26,3 +26,24 @@ This project is a class Kaggle Challenge (link: https://www.kaggle.com/c/cse151b
 Our group successfully developed two different neural network models to solve this problem. The first one is a repeat-layer linear model. This model is invented by me. It repeatly uses linear layers in the model to minimize the influence of vanishing gradient. The second model is encoder decoder model. For more details, please check the project code and report.
 
 I crucially involved in all aspects of this project. I was responsible for the initial codebase, including loading and preparing the data, training, validating and testing the model. I proposed and wrote our first model, repeat-layer linear model. I was also responsible for hyperparameters tuning for both models. And I was responsible for writing the majority of the report.
+
+
+COGS108: Moba Game Winrate Prediction using SVM
+
+Code/Report: https://github.com/millrogue/COGS108_Final_Project
+
+Summary:
+
+COGS118A: An Empirical Comparison of Supervised Learning Algorithms
+
+Code/Report: 
+
+Summary:
+
+COGS118B: Rating Prediction using Unsupervised Learning Algorithms
+
+Code: https://github.com/FeiYin99/CCXXXIII---COGS-118B-Final-Project
+
+Report: 
+
+Summary:
