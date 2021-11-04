@@ -31,5 +31,5 @@ Summary:
 
 ### COGS118B: Rating Prediction using Unsupervised Learning Algorithms   
 Code: https://github.com/FeiYin99/CCXXXIII---COGS-118B-Final-Project   
-Report:    
+Report: https://github.com/millrogue/My_Undergrad_Project/tree/main/COGS118B:%20Rating%20Prediction%20using%20Unsupervised%20Learning%20Algorithms   
 Summary:   
