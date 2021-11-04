@@ -3,6 +3,7 @@
 This is the repo that contains all my undergraduate projects. Here is the list and introduction to each of them.
 
 List of Projects:  
+Course Name: Project Name
 CSE151B: Trajectory Prediction using Repeat-Linear Neural Network   
 COGS108: Moba Game Winrate Prediction using SVM   
 COGS118A: An Empirical Comparison of Supervised Learning Algorithms    
