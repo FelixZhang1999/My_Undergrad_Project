@@ -4,7 +4,7 @@ This is the repo that contains all my undergraduate projects. Here is the list a
 
 List of Projects:
 
-CSE151B: Trajectory Prediction using Repeat-Linear Neural Network[https://github.com/millrogue/My_Undergrad_Project/blob/main/README.md#cse151b-trajectory-prediction-using-repeat-linear-neural-network]
+CSE151B: Trajectory Prediction using Repeat-Linear Neural Network
 
 COGS108: Moba Game Winrate Prediction using SVM
 
@@ -14,7 +14,7 @@ COGS118B: Rating Prediction using Unsupervised Learning Algorithms
 
 Introduction of Projects:
 
-# CSE151B: Trajectory Prediction using Repeat-Linear Neural Network
+### CSE151B: Trajectory Prediction using Repeat-Linear Neural Network
 
 Code: https://github.com/f6zhang/CSE-151B-Final-Project
 
@@ -28,19 +28,19 @@ Our group successfully developed two different neural network models to solve th
 I crucially involved in all aspects of this project. I was responsible for the initial codebase, including loading and preparing the data, training, validating and testing the model. I proposed and wrote our first model, repeat-layer linear model. I was also responsible for hyperparameters tuning for both models. And I was responsible for writing the majority of the report.
 
 
-# COGS108: Moba Game Winrate Prediction using SVM
+### COGS108: Moba Game Winrate Prediction using SVM
 
 Code/Report: https://github.com/millrogue/COGS108_Final_Project
 
 Summary:
 
-# COGS118A: An Empirical Comparison of Supervised Learning Algorithms
+### COGS118A: An Empirical Comparison of Supervised Learning Algorithms
 
 Code/Report: 
 
 Summary:
 
-# COGS118B: Rating Prediction using Unsupervised Learning Algorithms
+### COGS118B: Rating Prediction using Unsupervised Learning Algorithms
 
 Code: https://github.com/FeiYin99/CCXXXIII---COGS-118B-Final-Project
 
