@@ -27,6 +27,9 @@ I crucially involved in all aspects of this project. I was responsible for the i
 ### COGS108: Moba Game Winrate Prediction using SVM   
 Code/Report: https://github.com/millrogue/COGS108_Final_Project   
 Summary:  
+This is a class project. The goal is to successfully predict the outcome of a match in a moba game, Dota2, given the statistics of 5/10/15 minutes of the game.
+
+We solved the problem using a SVM model and carefully selected input data. Our test accuracy of our model is
 
 ### COGS118A: An Empirical Comparison of Supervised Learning Algorithms   
 Code/Report: https://github.com/millrogue/My_Undergrad_Project/tree/main/COGS118A:%20An%20Empirical%20Comparison%20of%20Supervised%20Learning%20Algorithms    
