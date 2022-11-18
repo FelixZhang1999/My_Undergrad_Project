@@ -10,6 +10,7 @@ CSE151B: Trajectory Prediction using Repeat-Layer Linear Neural Network
 COGS108: Moba Game Winrate Prediction using SVM   
 COGS118A: An Empirical Comparison of Supervised Learning Algorithms    
 COGS118B: Rating Prediction using Unsupervised Learning Algorithms   
+CSE251B: Recognize Blurry Image with Transfer Learning    
 
 ## Introduction of Projects:
 
