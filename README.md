@@ -13,6 +13,16 @@ COGS118B: Rating Prediction using Unsupervised Learning Algorithms
 
 ## Introduction of Projects:
 
+### CSE251B: Recognize Blurry Image with Transfer Learning
+Code: https://github.com/f6zhang/CSE251_Final
+Report: https://github.com/millrogue/My_Undergrad_Project/blob/main/CSE251B_Final_Project.pdf
+Summary:
+This project is the final report of CSE251B. In this project, we attempted to restore blurry images. 
+
+Our best model uses a modified UNet and uses transfer learning from a large dataset. The result shows that our model can successful restore blurry images, with a low MSE score between the original image and the output of the model, and with a higher classification accuracy when we apply a simple classification model on the output  than on the original image.
+
+I crucially involved in all aspects of this project. I came up with the model structure and wrote a large portion of the code.
+
 ### CSE151B: Trajectory Prediction using Repeat-Layer Linear Neural Network 
 Code: https://github.com/f6zhang/CSE-151B-Final-Project   
 Report: https://github.com/millrogue/My_Undergrad_Project/tree/main/CSE151B:%20Trajectory%20Prediction%20using%20Repeat-Layer%20Linear%20Neural%20Network  
