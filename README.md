@@ -31,7 +31,7 @@ Report: [Link](https://github.com/FelixZhang1999/My_Undergrad_Project/blob/main/
 Summary:     
 This project is the final project of CSE 256. In this project, I wrote models to generate captions for images.
 
-The best model is mPLUG from (this paper)[https://arxiv.org/abs/2205.12005]. mPLUG combines image and text processing using a shared Transformer backbone to capture the rich cross-modal representations.
+The best model is mPLUG from [this paper](https://arxiv.org/abs/2205.12005). mPLUG combines image and text processing using a shared Transformer backbone to capture the rich cross-modal representations.
 
 I finished this project solely.
 
@@ -49,7 +49,7 @@ I was crucially involved in all aspects of this project. I came up with the mode
 Code: [Link](https://github.com/f6zhang/CSE-151B-Final-Project)    
 Report: [Link](https://github.com/millrogue/My_Undergrad_Project/tree/main/CSE151B:%20Trajectory%20Prediction%20using%20Repeat-Layer%20Linear%20Neural%20Network)    
 Summary:  
-This project is a group class Kaggle Challenge (link)[https://www.kaggle.com/c/cse151b-spring# Global competition: https://eval.ai/web/challenges/challenge-page/454/overview]. In this project, we attempted to solve the problem of Trajectory Prediction for autonomous driving. The goal is to predict the trajectory of the vehicle 3 seconds in the future using 2 seconds data in the past. Our group (Two Three Three Three) scored first place in the public leaderboard with a test RMSE of less than 2.0 and scored second place in the private leaderboard.
+This project is a group class Kaggle Challenge [link](https://www.kaggle.com/c/cse151b-spring#) [Global competition](https://eval.ai/web/challenges/challenge-page/454/overview). In this project, we attempted to solve the problem of Trajectory Prediction for autonomous driving. The goal is to predict the trajectory of the vehicle 3 seconds in the future using 2 seconds data in the past. Our group (Two Three Three Three) scored first place in the public leaderboard with a test RMSE of less than 2.0 and scored second place in the private leaderboard.
 
 Our group successfully developed two different neural network models to solve this problem. The first one is a repeat-layer linear model. This model is invented by me. It repeatedly uses linear layers in the model to minimize the influence of vanishing gradients. The second model is the encoder-decoder model. For more details, please check the project code and report.
 
